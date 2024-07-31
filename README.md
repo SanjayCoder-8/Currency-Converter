@@ -19,3 +19,6 @@
 <h3>1. Currency exchange rate APIs to get real-time exchange rates. </h3>
 
 <h2>A Currency Converter is a practical and user-friendly tool, useful for travelers, international business professionals, and anyone dealing with multiple currencies. It demonstrates a clear understanding of real-time data handling and user interface design.</h2>
+
+<h1>App View: </h1>
+<img src="/app-view.png">
